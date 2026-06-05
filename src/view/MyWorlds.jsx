@@ -1,9 +1,9 @@
-import React from 'react';
+import BookCard from "@/component/BookCard";
 
 const MyWorlds = () => {
     return (
         <div>
-            
+            <BookCard/>
         </div>
     );
 };
